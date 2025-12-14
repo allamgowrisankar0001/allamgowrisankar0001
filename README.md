@@ -1,4 +1,4 @@
-# Hi, I'm Gowri Shankar 👋
+# Hi, I'm Gowri Sankar 👋
 
 **💻 MERN Stack Developer | Web Developer**  
 🌱 Focused on building **scalable, reliable, and user-friendly web applications**  
@@ -40,17 +40,14 @@ I am a **MERN stack developer** with hands-on experience in building real-world 
 ### **Timetable Management System**  
 - Full-stack MERN application with **separate frontend and backend architecture**  
 - Dynamic scheduling and management system  
-- [GitHub Repo](https://github.com/allamgowrisankar0001) | [Live Demo](#)
 
 ### **MERN Authentication App**  
 - Secure authentication system using **JWT and protected routes**  
 - User session management and role-based access control  
-- [GitHub Repo](https://github.com/allamgowrisankar0001) | [Live Demo](#)
 
 ### **Pizza Hub**  
 - React-based **food ordering interface** with reusable components  
 - Fully responsive design and dynamic UI elements  
-- [GitHub Repo](https://github.com/allamgowrisankar0001) | [Live Demo](#)
 
 ### **Frontend Mini Projects**  
 - Rebuilt **HTML, CSS, JS projects** following modern best practices  
